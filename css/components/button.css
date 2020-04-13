@@ -1,0 +1,8 @@
+.btn-grey {
+	background-color: grey;
+	padding: 10px 10px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: "Zilla Slab", serif;
+}
